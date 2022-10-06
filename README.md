@@ -1,3 +1,3 @@
 Technologies used: SCSS, HTML, BEM
 
-Simple and beautiful responsive [Web Page](https://Anton_Liada.github.io/layout_miami/)
+Simple and beautiful responsive [Web Page](https://Anton-Liada.github.io/landing-Miami/)
